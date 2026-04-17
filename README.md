@@ -16,14 +16,14 @@ This project helps users manage daily tasks directly from the terminal with pers
 ---
 
 ## 📁 Project Structure  
-
+```
 go-task-manager/
 │── main.go        # Entry point of the application  
 │── task.go        # Task model/structure  
 │── storage.go     # File handling & business logic  
 │── go.mod         # Go module file  
 │── tasks.json     # Auto-created database file  
-
+```
 ---
 
 ## 🛠️ Tech Stack  
